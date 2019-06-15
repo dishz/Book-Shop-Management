@@ -11,7 +11,7 @@ public class Cart extends Bill{
     public List<Integer> quant = new ArrayList<Integer>();
     public int noOfItems=0;
     public void updateCart(Item a,int q ){
-      noOfitems++;
+      noOfItems++;
       
       //------------
       //------------
